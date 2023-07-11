@@ -35,6 +35,10 @@ export {
   default as OfferingCard,
   type OfferingCardProps,
 } from './components/02-components/offering-card/offering-card';
+export {
+  default as OfferingForm,
+  type OfferingFormProps,
+} from './components/02-components/offering-form/offering-form';
 export { default as OfferingList } from './components/02-components/offering-list/offering-list';
 export {
   default as OfferingPage,
